@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+.report/
+
+# Node.js
+# See https://github.com/github/gitignore/blob/main/Node.gitignore for a more comprehensive list.
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.user
+*.bak
+*.acs
+*.erc
+*.scc
+
+# Environment variables
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# npm package manager cache
+.npm/
+.yarn/
+
+# other
+.DS_Store
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.rar
+*.zip
+*.tar
+.env.*.local
+.eslintcache
+.vitepress/cache
+.astro/cache
+.nuxt/
+.next/
+.output/
+.parcel-cache/
+
+# Custom for project
+# Any other files or folders you wish to ignore
